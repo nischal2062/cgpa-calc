@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nschal/Programming/VS Code/C++ Projects/cgpa-calc'
+relocations:     []
+...
